@@ -1,0 +1,419 @@
+{
+  "categories": [
+    {
+      "round": 1,
+      "id": "OCaml",
+      "cells": [
+        {
+          "cell id": "OCaml 10",
+          "points": 10,
+          "clue": "A functional programming language you learn in CS 3110.",
+          "answer": "What is OCaml?",
+          "regexp": ".*ocaml.*"
+        },
+        {
+          "cell id": "OCaml 20",
+          "points": 20,
+          "clue": "Picking test cases by just looking at the specification and ignoring the implementation.",
+          "answer": "What is black-box testing?",
+          "regexp": ".*black-box.*"
+        },
+        {
+          "cell id": "OCaml 30",
+          "points": 30,
+          "clue": "To avoid requiring something to be stated more than once by factoring out the recurring pattern.",
+          "answer": "What is the abstraction principle?",
+          "regexp": ".*abstraction.*"
+        },
+        {
+          "cell id": "OCaml 40",
+          "points": 40,
+          "clue": "An infinite list.",
+          "answer": "What is a stream?",
+          "regexp": ".*stream.*"
+        },
+        {
+          "cell id": "OCaml 50",
+          "points": 50,
+          "clue": "Other names for this idea include futures, deferreds, and delayeds.",
+          "answer": "What are promises?",
+          "regexp": ".*promises.*"
+        }
+      ]
+    },
+    {
+      "round": 1,
+      "id": "Places",
+      "cells": [
+        {
+          "cell id": "Places 10",
+          "points": 10,
+          "clue": "Where all the freshmen live.",
+          "answer": "Where is North Campus?",
+          "regexp": ".*North.*"
+        },
+        {
+          "cell id": "Places 20",
+          "points": 20,
+          "clue": "At the bottom of Libe Slope.",
+          "answer": "Where is West Campus?",
+          "regexp": ".*West.*"
+        },
+        {
+          "cell id": "Places 30",
+          "points": 30,
+          "clue": "The campus where most classes are held.",
+          "answer": "Where is Central Campus?",
+          "regexp": ".*Central.*"
+        },
+        {
+          "cell id": "Places 40",
+          "points": 40,
+          "clue": "The place with a lot of restaurants.",
+          "answer": "Where is college town?",
+          "regexp": ".*college town.*"
+        },
+        {
+          "cell id": "Places 50",
+          "points": 50,
+          "clue": "Where CS 3110 lecture is held.",
+          "answer": "Where is Kennedy Hall?",
+          "regexp": ".*Kennedy.*"
+        }
+      ]
+    },
+    {
+      "round": 1,
+      "id": "Professors",
+      "cells": [
+        {
+          "cell id": "Professors 10",
+          "points": 10,
+          "clue": "The CS 3110 professor.",
+          "answer": "Who is Nate Foster?",
+          "regexp": ".*Foster.*"
+        },
+        {
+          "cell id": "Professors 20",
+          "points": 20,
+          "clue": "The CS 2110 professor.",
+          "answer": "Who is David Gries?",
+          "regexp": ".*Gries.*"
+        },
+        {
+          "cell id": "Professors 30",
+          "points": 30,
+          "clue": "The CS 1110 professor.",
+          "answer": "Who is Walker White?",
+          "regexp": ".*White.*"
+        },
+        {
+          "cell id": "Professors 40",
+          "points": 40,
+          "clue": "The CS 2800 professor.",
+          "answer": "Who is Michael George?",
+          "regexp": ".*George.*"
+        },
+        {
+          "cell id": "Professors 50",
+          "points": 50,
+          "clue": "The CS 1112 professor.",
+          "answer": "Who is Daisy Fan?",
+          "regexp": ".*Fan.*"
+        }
+      ]
+    },
+    {
+      "round": 1,
+      "id": "Dining",
+      "cells": [
+        {
+          "cell id": "Dining 10",
+          "points": 10,
+          "clue": "The only dining hall on Central.",
+          "answer": "What is Okenshields?",
+          "regexp": ".*Okenshields.*"
+        },
+        {
+          "cell id": "Dining 20",
+          "points": 20,
+          "clue": "The dining hall on North that's never open.",
+          "answer": "What is RPCC?",
+          "regexp": ".*RPCC.*"
+        },
+        {
+          "cell id": "Dining 30",
+          "points": 30,
+          "clue": "The dining hall on North that's always open.",
+          "answer": "What is Appel?",
+          "regexp": ".*Appel.*"
+        },
+        {
+          "cell id": "Dining 40",
+          "points": 40,
+          "clue": "The dining hall with a piano in the neighboring room.",
+          "answer": "What is Keeton?",
+          "regexp": ".*Keeton.*"
+        },
+        {
+          "cell id": "Dining 50",
+          "points": 50,
+          "clue": "The dining hall that makes crepes sometimes.",
+          "answer": "What is Bethe?",
+          "regexp": ".*Bethe.*"
+        }
+      ]
+    },
+    {
+      "round": 1,
+      "id": "Trivia",
+      "cells": [
+        {
+          "cell id": "Trivia 10",
+          "points": 10,
+          "clue": "The first color of the rainbow.",
+          "answer": "What is red?",
+          "regexp": ".*red.*"
+        },
+        {
+          "cell id": "Trivia 20",
+          "points": 20,
+          "clue": "The religious holiday related to eggs.",
+          "answer": "What is Easter?",
+          "regexp": ".*Easter.*"
+        },
+        {
+          "cell id": "Trivia 30",
+          "points": 30,
+          "clue": "The current prime minister of Canada.",
+          "answer": "Who is Justin Trudeau?",
+          "regexp": ".*Trudeau.*"
+        },
+        {
+          "cell id": "Trivia 40",
+          "points": 40,
+          "clue": "21% of Earth's atmosphere.",
+          "answer": "What is oxygen?",
+          "regexp": ".*oxygen.*"
+        },
+        {
+          "cell id": "Trivia 50",
+          "points": 50,
+          "clue": "An American television game show created by Merv Griffin.",
+          "answer": "What is Jeopardy?",
+          "regexp": ".*Jeopardy.*"
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "id": "OCaml",
+      "cells": [
+        {
+          "cell id": "OCaml 20",
+          "points": 20,
+          "clue": "A 'function' from structures to structures.",
+          "answer": "What is a functor?",
+          "regexp": ".* functor.*"
+        },
+        {
+          "cell id": "OCaml 40",
+          "points": 40,
+          "clue": "The standard mathematical way to describe syntax of a language.",
+          "answer": "What is BNF?",
+          "regexp": ".* BNF.*"
+        },
+        {
+          "cell id": "OCaml 60",
+          "points": 60,
+          "clue": "A program that implements a programming language who's primary task is execution.",
+          "answer": "What is an interpreter?",
+          "regexp": ".* interpreter.*"
+        },
+        {
+          "cell id": "OCaml 80",
+          "points": 80,
+          "clue": "A program that implements a programming language who's primary task is execution.",
+          "answer": "What is a compiler?",
+          "regexp": ".* compiler.*"
+        },
+        {
+          "cell id": "OCaml 100",
+          "points": 100,
+          "clue": "A single sequential computation used to make concurrent programs.",
+          "answer": "What is a thread?",
+          "regexp": ".* thread.*"
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "id": "Places",
+      "cells": [
+        {
+          "cell id": "Places 20",
+          "points": 20,
+          "clue": "Where engineers go to die and do psets.",
+          "answer": "Where is Duffield?",
+          "regexp": ".* Duffield.*"
+        },
+        {
+          "cell id": "Places 40",
+          "points": 40,
+          "clue": "Sells many bagels on campus.",
+          "answer": "Where is Bus Stop Bagels?",
+          "regexp": ".* Bus Stop.*"
+        },
+        {
+          "cell id": "Places 60",
+          "points": 60,
+          "clue": "Has free popcorn.",
+          "answer": "Where is Willard Straight Hall?",
+          "regexp": ".* Willard Straight.*"
+        },
+        {
+          "cell id": "Places 80",
+          "points": 80,
+          "clue": "Library next to Chimes.",
+          "answer": "Where is Uris Library?",
+          "regexp": ".* Uris.*"
+        },
+        {
+          "cell id": "Places 100",
+          "points": 100,
+          "clue": "Where CS 3110 discussion 207 is held.",
+          "answer": "Where is Hollister Hall?",
+          "regexp": ".* Hollister.*"
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "id": "Professors",
+      "cells": [
+        {
+          "cell id": "Professors 20",
+          "points": 20,
+          "clue": "The ORIE 3120 professor.",
+          "answer": "Who is Peter Fraizer?",
+          "regexp": ".* Fraizer.*"
+        },
+        {
+          "cell id": "Professors 40",
+          "points": 40,
+          "clue": "The Keeton House professor.",
+          "answer": "Who is Steve Jackson?",
+          "regexp": ".* Jackson.*"
+        },
+        {
+          "cell id": "Professors 60",
+          "points": 60,
+          "clue": "The INFO 2300 professor.",
+          "answer": "Who is Kyle Harms?",
+          "regexp": ".* Harms.*"
+        },
+        {
+          "cell id": "Professors 80",
+          "points": 80,
+          "clue": "The CS 3410 professor.",
+          "answer": "Who is Hakim Weatherspoon?",
+          "regexp": ".* Weatherspoon.*"
+        },
+        {
+          "cell id": "Professors 100",
+          "points": 100,
+          "clue": "Also on IBM board of directors.",
+          "answer": "Who is Martha Pollack?",
+          "regexp": ".* Martha.*"
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "id": "Dining",
+      "cells": [
+        {
+          "cell id": "Dining 20",
+          "points": 20,
+          "clue": "The cafe in Olin Library.",
+          "answer": "What is Libe Cafe?",
+          "regexp": ".* Libe.*"
+        },
+        {
+          "cell id": "Dining 40",
+          "points": 40,
+          "clue": "The dining hall on North with themed dinners sometimes.",
+          "answer": "What is Risley?",
+          "regexp": ".* Risley.*"
+        },
+        {
+          "cell id": "Dining 60",
+          "points": 60,
+          "clue": "The West Campus dinning hall that has tacos for dinner on Tuesdays.",
+          "answer": "What is Rose?",
+          "regexp": ".* Rose.*"
+        },
+        {
+          "cell id": "Dining 80",
+          "points": 80,
+          "clue": "The West Campus dinning hall that has breakfast for dinner on Thursdays.",
+          "answer": "What is Rose?",
+          "regexp": ".* Rose.*"
+        },
+        {
+          "cell id": "Dining 100",
+          "points": 100,
+          "clue": "The dinning hall that no one goes to.",
+          "answer": "What is 104 West?",
+          "regexp": ".* 104 West.*"
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "id": "Trivia",
+      "cells": [
+        {
+          "cell id": "Trivia 20",
+          "points": 20,
+          "clue": "The color of Cornell.",
+          "answer": "What is red?",
+          "regexp": ".* red.*"
+        },
+        {
+          "cell id": "Trivia 40",
+          "points": 40,
+          "clue": "The holiday related to labor.",
+          "answer": "What is Labor Day?",
+          "regexp": ".* Labor Day.*"
+        },
+        {
+          "cell id": "Trivia 60",
+          "points": 60,
+          "clue": "The Chief Justice of SCOTUS.",
+          "answer": "Who is John Roberts?",
+          "regexp": ".* Roberts.*"
+        },
+        {
+          "cell id": "Trivia 80",
+          "points": 80,
+          "clue": "Two hydrogens and one xxxx make water.",
+          "answer": "What is oxygen?",
+          "regexp": ".* oxygen.*"
+        },
+        {
+          "cell id": "Trivia 100",
+          "points": 100,
+          "clue": "The building where David Gries' office is.",
+          "answer": "What is Gates Hall?",
+          "regexp": ".* Gates.*"
+        }
+      ]
+    }
+  ],
+  "final": {
+    "clue": "The person who founded Cornell University.",
+    "answer": "Who is Ezra Cornell?",
+    "regexp": ".* Ezra.*"
+  }
+}

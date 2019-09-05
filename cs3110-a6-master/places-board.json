@@ -1,0 +1,419 @@
+{
+  "categories": [
+    {
+      "round": 1,
+      "id": "Boston",
+      "cells": [
+        {
+          "cell id": "Boston 10",
+          "points": 10,
+          "clue": "The state that Boston is located in.",
+          "answer": "What is Massachusetts?",
+          "regexp": ".*Massachusetts.*"
+        },
+        {
+          "cell id": "Boston 20",
+          "points": 20,
+          "clue": "The baseball team.",
+          "answer": "What is the Red Sox?",
+          "regexp": ".*Red Sox.*"
+        },
+        {
+          "cell id": "Boston 30",
+          "points": 30,
+          "clue": "The main method of transportation used.",
+          "answer": "What is the T?",
+          "regexp": ".*T.*"
+        },
+        {
+          "cell id": "Boston 40",
+          "points": 40,
+          "clue": "The animal that is illegal to be in the backseat of a car while driving.",
+          "answer": "What is a gorilla?",
+          "regexp": ".*gorilla.*"
+        },
+        {
+          "cell id": "Boston 50",
+          "points": 50,
+          "clue": "The cookie that was named after a Boston suburb.",
+          "answer": "What is fig newton?",
+          "regexp": ".*fig newton.*"
+        }
+      ]
+    },
+    {
+      "round": 1,
+      "id": "Chicago",
+      "cells": [
+        {
+          "cell id": "Chicago 10",
+          "points": 10,
+          "clue": "The state that Chicago is located in.",
+          "answer": "What is Illinois?",
+          "regexp": ".*Illinois.*"
+        },
+        {
+          "cell id": "Chicago 20",
+          "points": 20,
+          "clue": "The tower that was the tallest building in the world for almost 25 years.",
+          "answer": "What is the Sears Tower?",
+          "regexp": ".*Sears.*"
+        },
+        {
+          "cell id": "Chicago 30",
+          "points": 30,
+          "clue": "The celebrity rapper who is from Chicago.",
+          "answer": "Who is Kanye West?",
+          "regexp": ".*Kanye.*"
+        },
+        {
+          "cell id": "Chicago 40",
+          "points": 40,
+          "clue": "The creamy pastry that was invented in Chicago.",
+          "answer": "What is a Twinkie?",
+          "regexp": ".*twinkie.*"
+        },
+        {
+          "cell id": "Chicago 50",
+          "points": 50,
+          "clue": "The artistic medium that was invented in Chicago.",
+          "answer": "What is spray paint?",
+          "regexp": ".*spray paint.*"
+        }
+      ]
+    },
+    {
+      "round": 1,
+      "id": "DC",
+      "cells": [
+        {
+          "cell id": "DC 10",
+          "points": 10,
+          "clue": "The state besides Virginia that DC borders.",
+          "answer": "What is Maryland?",
+          "regexp": ".*Maryland.*"
+        },
+        {
+          "cell id": "DC 20",
+          "points": 20,
+          "clue": "The downtown of DC.",
+          "answer": "What is Georgetown?",
+          "regexp": ".*Georgetown.*"
+        },
+        {
+          "cell id": "DC 30",
+          "points": 30,
+          "clue": "The big pencil.",
+          "answer": "What is the Washington Monument?",
+          "regexp": ".*Washington Monument.*"
+        },
+        {
+          "cell id": "DC 40",
+          "points": 40,
+          "clue": "The place with yummy cupcakes.",
+          "answer": "Where is Georgetown Cupcakes?",
+          "regexp": ".*Georgetown Cupcakes.*"
+        },
+        {
+          "cell id": "DC 50",
+          "points": 50,
+          "clue": "The main method of transportation used.",
+          "answer": "What is the metro?",
+          "regexp": ".*metro.*"
+        }
+      ]
+    },
+    {
+      "round": 1,
+      "id": "Ithaca",
+      "cells": [
+        {
+          "cell id": "Ithaca 10",
+          "points": 10,
+          "clue": "The university that we attend.",
+          "answer": "What is Cornell?",
+          "regexp": ".*Cornell.*"
+        },
+        {
+          "cell id": "Ithaca 20",
+          "points": 20,
+          "clue": "The only place to ski.",
+          "answer": "Where is Greek Peak?",
+          "regexp": ".*Greek Peak.*"
+        },
+        {
+          "cell id": "Ithaca 30",
+          "points": 30,
+          "clue": "The place with restaurants close to Cornell.",
+          "answer": "Where is collegetown?",
+          "regexp": ".*collegetown.*"
+        },
+        {
+          "cell id": "Ithaca 40",
+          "points": 40,
+          "clue": "The place with actual stores and restaurants.",
+          "answer": "Where is the Commons?",
+          "regexp": ".*Commons.*"
+        },
+        {
+          "cell id": "Ithaca 50",
+          "points": 50,
+          "clue": "The elementary school on King Street.",
+          "answer": "What is Fall Creek?",
+          "regexp": ".*Fall Creek.*"
+        }
+      ]
+    },
+    {
+      "round": 1,
+      "id": "Trivia",
+      "cells": [
+        {
+          "cell id": "Trivia 10",
+          "points": 10,
+          "clue": "The second color of the rainbow.",
+          "answer": "What is orange?",
+          "regexp": ".*orange.*"
+        },
+        {
+          "cell id": "Trivia 20",
+          "points": 20,
+          "clue": "The fruit with the highest protein content.",
+          "answer": "What is an avocado?",
+          "regexp": ".*avocado.*"
+        },
+        {
+          "cell id": "Trivia 30",
+          "points": 30,
+          "clue": "The most popular Girl Scout Cookie.",
+          "answer": "What are Thin Mints?",
+          "regexp": ".*Thin Mints.*"
+        },
+        {
+          "cell id": "Trivia 40",
+          "points": 40,
+          "clue": "The country with the highest pet dog population in the world.",
+          "answer": "What is the United States?",
+          "regexp": ".*United States.*"
+        },
+        {
+          "cell id": "Trivia 50",
+          "points": 50,
+          "clue": "An American television game show created by Merv Griffin.",
+          "answer": "What is Jeopardy?",
+          "regexp": ".*Jeopardy.*"
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "id": "Boston",
+      "cells": [
+        {
+          "cell id": "Boston 20",
+          "points": 20,
+          "clue": "The trail that goes through historical sites of Boston.",
+          "answer": "What is the Freedom Trail?",
+          "regexp": ".* freedom trail.*"
+        },
+        {
+          "cell id": "Boston 40",
+          "points": 40,
+          "clue": "The hockey team.",
+          "answer": "What is the Bruins?",
+          "regexp": ".* bruins.*"
+        },
+        {
+          "cell id": "Boston 60",
+          "points": 60,
+          "clue": "River that forms the border between Boston and Cambridge.",
+          "answer": "What is the Charles River?",
+          "regexp": ".* the Charles.*"
+        },
+        {
+          "cell id": "Boston 80",
+          "points": 80,
+          "clue": "The left field wall at Fenway Park.",
+          "answer": "What is the Green Monster?",
+          "regexp": ".* Green Monster.*"
+        },
+        {
+          "cell id": "Boston 100",
+          "points": 100,
+          "clue": "The GOAT.",
+          "answer": "Who is Tom Brady?",
+          "regexp": ".* Brady.*"
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "id": "Chicago",
+      "cells": [
+        {
+          "cell id": "Chicago 20",
+          "points": 20,
+          "clue": "The Great Lake next to it.",
+          "answer": "What is Lake Michigan?",
+          "regexp": ".* Lake Michigan.*"
+        },
+        {
+          "cell id": "Chicago 40",
+          "points": 40,
+          "clue": "The baseball team.",
+          "answer": "Who are the Cubs?",
+          "regexp": ".* Cubs.*"
+        },
+        {
+          "cell id": "Chicago 60",
+          "points": 60,
+          "clue": "Another name for the famous sculpture Cloud Gate.",
+          "answer": "What is the Bean?",
+          "regexp": ".* Bean.*"
+        },
+        {
+          "cell id": "Chicago 80",
+          "points": 80,
+          "clue": "The park where the Bean is located.",
+          "answer": "What is Millenium Park?",
+          "regexp": ".* Millenium.*"
+        },
+        {
+          "cell id": "Chicago 100",
+          "points": 100,
+          "clue": "Chicago style pizza.",
+          "answer": "What is deep dish pizza?",
+          "regexp": ".* deep dish.*"
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "id": "DC",
+      "cells": [
+        {
+          "cell id": "DC 20",
+          "points": 20,
+          "clue": "The home of the US President.",
+          "answer": "What is the White House?",
+          "regexp": ".* White House.*"
+        },
+        {
+          "cell id": "DC 40",
+          "points": 40,
+          "clue": "Memorial located at the shore of the Tidal Basin.",
+          "answer": "What is Jefferson Memorial?",
+          "regexp": ".* Jefferson.*"
+        },
+        {
+          "cell id": "DC 60",
+          "points": 60,
+          "clue": "Pretty flowers.",
+          "answer": "What are the cherry blossoms?",
+          "regexp": ".* cherry blossoms.*"
+        },
+        {
+          "cell id": "DC 80",
+          "points": 80,
+          "clue": "The state besides Maryland that borders DC.",
+          "answer": "What is Virginia?",
+          "regexp": ".* Virginia.*"
+        },
+        {
+          "cell id": "DC 100",
+          "points": 100,
+          "clue": "The museum where the Hope Diamond is on exhibit.",
+          "answer": "What is the Natural History Museum?",
+          "regexp": ".* Natural History.*"
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "id": "Ithaca",
+      "cells": [
+        {
+          "cell id": "Ithaca 20",
+          "points": 20,
+          "clue": "The engineering library.",
+          "answer": "What is Carpenter?",
+          "regexp": ".* Carpenter.*"
+        },
+        {
+          "cell id": "Ithaca 40",
+          "points": 40,
+          "clue": "The best BBT place.",
+          "answer": "What is Kung Fu Tea?",
+          "regexp": ".* Kung Fu.*"
+        },
+        {
+          "cell id": "Ithaca 60",
+          "points": 60,
+          "clue": "The bus.",
+          "answer": "What is the TCAT?",
+          "regexp": ".* TCAT.*"
+        },
+        {
+          "cell id": "Ithaca 80",
+          "points": 80,
+          "clue": "The lake next to the farmer's market.",
+          "answer": "What is Cayuga Lake?",
+          "regexp": ".* Cayuga Lake.*"
+        },
+        {
+          "cell id": "Ithaca 100",
+          "points": 100,
+          "clue": "The county.",
+          "answer": "What is Tompkins County?",
+          "regexp": ".* Tompkins.*"
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "id": "Trivia",
+      "cells": [
+        {
+          "cell id": "Trivia 20",
+          "points": 20,
+          "clue": "The carpet color of Uris G01.",
+          "answer": "What is red?",
+          "regexp": ".* red.*"
+        },
+        {
+          "cell id": "Trivia 40",
+          "points": 40,
+          "clue": "The holiday related to mothers.",
+          "answer": "What is Mother's Day?",
+          "regexp": ".* Mother's Day.*"
+        },
+        {
+          "cell id": "Trivia 60",
+          "points": 60,
+          "clue": "The current prime minister of the UK.",
+          "answer": "Who is Theresa May?",
+          "regexp": ".* May.*"
+        },
+        {
+          "cell id": "Trivia 80",
+          "points": 80,
+          "clue": "The biggest mammal.",
+          "answer": "What are whales?",
+          "regexp": ".* whale.*"
+        },
+        {
+          "cell id": "Trivia 100",
+          "points": 100,
+          "clue": "The shade of yellow of a school bus.",
+          "answer": "What is school bus yellow?",
+          "regexp": ".* school bus.*"
+        }
+      ]
+    }
+  ],
+  "final": {
+    "clue": "The type of cancer Merv Griffin unfortunately has (rip).",
+    "answer": "What is pancreatic cancer?",
+    "regexp": ".* pancreatic.*"
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "categories": [
+    {
+      "id": "cat1",
+      "cells": [
+        {
+          "cell id": "10cat1",
+          "points": 10,
+          "clue": "blah",
+          "answer": ".?",
+	  "regexp": ".* \\?.*"
+        },
+        {
+          "cell id": "20cat1",
+          "points": 20,
+          "clue": "blah blah",
+          "answer": "..?"
+        },
+        {
+          "cell id": "30cat1",
+          "points": 30,
+          "clue": "blah blah blah",
+          "answer": "...?"
+        },
+        {
+          "cell id": "40cat1",
+          "points": 40,
+          "clue": "blah blah blah blah",
+          "answer": "....?"
+        },
+        {
+          "cell id": "50cat1",
+          "points": 50,
+          "clue": "blah blah blah blah blah",
+          "answer": ".....?"
+        }
+      ]
+    },
+    {
+      "id": "cat2",
+      "cells": [
+        {
+          "cell id": "10cat2",
+          "points": 10,
+          "clue": "blah",
+          "answer": ".?"
+        },
+        {
+          "cell id": "20cat2",
+          "points": 20,
+          "clue": "blah blah",
+          "answer": "..?"
+        },
+        {
+          "cell id": "30cat2",
+          "points": 30,
+          "clue": "blah blah blah",
+          "answer": "...?"
+        },
+        {
+          "cell id": "40cat2",
+          "points": 40,
+          "clue": "blah blah blah blah",
+          "answer": "....?"
+        },
+        {
+          "cell id": "50cat2",
+          "points": 50,
+          "clue": "blah blah blah blah blah",
+          "answer": ".....?"
+        }
+      ]
+    },
+    {
+      "id": "cat3",
+      "cells": [
+        {
+          "cell id": "10cat3",
+          "points": 10,
+          "clue": "blah",
+          "answer": ".?"
+        },
+        {
+          "cell id": "20cat3",
+          "points": 20,
+          "clue": "blah blah",
+          "answer": "..?"
+        },
+        {
+          "cell id": "30cat3",
+          "points": 30,
+          "clue": "blah blah blah",
+          "answer": "...?"
+        },
+        {
+          "cell id": "40cat3",
+          "points": 40,
+          "clue": "blah blah blah blah",
+          "answer": "....?"
+        },
+        {
+          "cell id": "50cat3",
+          "points": 50,
+          "clue": "blah blah blah blah blah",
+          "answer": ".....?"
+        }
+      ]
+    },
+    {
+      "id": "cat4",
+      "cells": [
+        {
+          "cell id": "10cat4",
+          "points": 10,
+          "clue": "blah",
+          "answer": ".?"
+        },
+        {
+          "cell id": "20cat4",
+          "points": 20,
+          "clue": "blah blah",
+          "answer": "..?"
+        },
+        {
+          "cell id": "30cat4",
+          "points": 30,
+          "clue": "blah blah blah",
+          "answer": "...?"
+        },
+        {
+          "cell id": "40cat4",
+          "points": 40,
+          "clue": "blah blah blah blah",
+          "answer": "....?"
+        },
+        {
+          "cell id": "50cat4",
+          "points": 50,
+          "clue": "blah blah blah blah blah",
+          "answer": ".....?"
+        }
+      ]
+    },
+    {
+      "id": "cat5",
+      "cells": [
+        {
+          "cell id": "10cat5",
+          "points": 10,
+          "clue": "blah",
+          "answer": ".?"
+        },
+        {
+          "cell id": "20cat5",
+          "points": 20,
+          "clue": "blah blah",
+          "answer": "..?"
+        },
+        {
+          "cell id": "30cat5",
+          "points": 30,
+          "clue": "blah blah blah",
+          "answer": "...?"
+        },
+        {
+          "cell id": "40cat5",
+          "points": 40,
+          "clue": "blah blah blah blah",
+          "answer": "....?"
+        },
+        {
+          "cell id": "50cat5",
+          "points": 50,
+          "clue": "blah blah blah blah blah",
+          "answer": ".....?"
+        }
+      ]
+    }
+  ],
+  "final": {
+    "clue": "blah",
+    "answer": ".?"
+  }
+}

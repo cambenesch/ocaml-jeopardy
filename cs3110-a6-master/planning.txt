@@ -1,0 +1,95 @@
+scope:
+  satisfactory: implementing the basic structure of the game. can choose
+  clue and answer.
+  good: implementing the point functions
+  excellent: daily double and final jeopardy
+  
+for final: adding a bot with different difficulties and timer?
+
+other features?: 
+check that answers come in the form of a question (has what/who/where in begining and ? at the end)
+
+
+----------------------------------------------------------------
+Rules of Jeopardy:
+given clues
+answers must come in form of a question  
+if answer incorrectly - lose points
+Daily Double - player wagers points (min wager is 5, up to max of their score 
+  or the clue value which ever is higher), 
+  correct response gives wager incorrect one deducts wager from score
+
+Round 1: jeopardy
+6 categories with 5 clues each
+has one Daily Double hidden behind a random clue
+not penalized for forgetting to answer in form of a question
+if player doesn't have any money at end of round then is disqualified
+
+Round 2: double jeopardy 
+new categories and harder 
+money values doubled
+if player doesn't have any money at end of round then is disqualified
+has two Daily Double hidden behind random clues
+
+Final Round: final jeopardy 
+one question - players can wager their earning between 0 and their score
+
+---------------------------------------------------------------------
+
+files:
+json (contain clue and answers and point value)
+{categories:[
+  {id:
+  cells: [ 
+      {points: 
+      clue: 
+      answer: }
+    ]
+    },
+    same tingz ~~~
+  ]
+}
+
+jeopardy.ml (have the jepoardy game)
+ type cell_id 
+ type category_id 
+ type t = {cells: cell_id list; categories: category_id list}
+ 
+ (*reads in JSON*)
+ val from_json: Yojson.Basic.json -> t
+
+ (*gets description of a category*)
+ val description: t -> category_id -> string
+
+ (*gets list of cells in a category *)
+ val cells: t -> category_id -> cell_id list 
+
+ (*gets clue from cell*)
+ val clue: t -> cell_id -> string
+ (*gets answer from cell*)
+ val answer: t -> cell_id -> string 
+ (*gets a cell points*)
+ val cell_points: t -> cell_id -> int
+
+
+command.ml (commands for the game)
+ different commands: answer, pick, score, wager, board, desc
+ exception empty
+
+
+ state.ml (state of board)
+ type t = {current_cell: cells: visited: score: }
+ val init_state (*inital state of game*)
+ val current_cell_id (* gets current cell*)
+ type result Legal of t | Illegal
+ val answer (*answers clue*)
+ val pick (*picks a cell*)
+ val score (*gets current score*)
+ val board (*prints out board*)
+
+
+ main.ml (plays the game)
+ 
+
+
+

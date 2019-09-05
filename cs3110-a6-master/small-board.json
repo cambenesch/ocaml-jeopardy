@@ -1,0 +1,171 @@
+{
+  "categories": [
+    {
+      "round": 1,
+      "id": "Colors",
+      "cells": [
+        {
+          "cell id": "Colors 10",
+          "points": 10,
+          "clue": "The color of coffee.",
+          "answer": "What is brown?",
+          "regexp": ".*brown.*"
+        },
+        {
+          "cell id": "Colors 20",
+          "points": 20,
+          "clue": "The result of mixing red and yellow.",
+          "answer": "What is orange?",
+          "regexp": ".*orange.*"
+        },
+        {
+          "cell id": "Colors 30",
+          "points": 30,
+          "clue": "The color that absorbs the most heat.",
+          "answer": "What is black?",
+          "regexp": ".*black.*"
+        }
+      ]
+    },
+    {
+      "round": 1,
+      "id": "States",
+      "cells": [
+        {
+          "cell id": "States 10",
+          "points": 10,
+          "clue": "Where Cornell is located.",
+          "answer": "What is New York?",
+          "regexp": ".*New York.*"
+        },
+        {
+          "cell id": "States 20",
+          "points": 20,
+          "clue": "Only state that begins with F.",
+          "answer": "What is Florida?",
+          "regexp": ".*Florida.*"
+        },
+        {
+          "cell id": "States 30",
+          "points": 30,
+          "clue": "Last state to join the US.",
+          "answer": "What is Hawaii?",
+          "regexp": ".*Hawaii.*"
+        }
+      ]
+    },
+    {
+      "round": 1,
+      "id": "More Colors",
+      "cells": [
+        {
+          "cell id": "More Colors 10",
+          "points": 10,
+          "clue": "The color of grass.",
+          "answer": "What is green?",
+          "regexp": ".*green.*"
+        },
+        {
+          "cell id": "More Colors 20",
+          "points": 20,
+          "clue": "The result of mixing red and blue.",
+          "answer": "What is purple?",
+          "regexp": ".*purple.*"
+        },
+        {
+          "cell id": "More Colors 30",
+          "points": 30,
+          "clue": "Tom Brady's eye color.",
+          "answer": "What is blue?",
+          "regexp": ".*blue.*"
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "id": "Colors",
+      "cells": [
+        {
+          "cell id": "Colors 20",
+          "points": 20,
+          "clue": "The color of lemons.",
+          "answer": "What is yellow?",
+          "regexp": ".* yellow.*"
+        },
+        {
+          "cell id": "Colors 40",
+          "points": 40,
+          "clue": "The result of mixing red and white.",
+          "answer": "What is pink?",
+          "regexp": ".* pink.*"
+        },
+        {
+          "cell id": "Colors 60",
+          "points": 60,
+          "clue": "The color that reflects the most heat.",
+          "answer": "What is white?",
+          "regexp": ".* white.*"
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "id": "States",
+      "cells": [
+        {
+          "cell id": "States 20",
+          "points": 20,
+          "clue": "Where Hollywood is located.",
+          "answer": "What is California?",
+          "regexp": ".* california.*"
+        },
+        {
+          "cell id": "States 40",
+          "points": 40,
+          "clue": "The smallest state.",
+          "answer": "What is Rhode Island?",
+          "regexp": ".* rhode island.*"
+        },
+        {
+          "cell id": "States 60",
+          "points": 60,
+          "clue": "The state to the west of Canada.",
+          "answer": "What is Alaska?",
+          "regexp": ".* Alaska.*"
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "id": "More Colors",
+      "cells": [
+        {
+          "cell id": "More Colors 20",
+          "points": 20,
+          "clue": "The color of the sky.",
+          "answer": "What is blue?",
+          "regexp": ".* blue.*"
+        },
+        {
+          "cell id": "More Colors 40",
+          "points": 40,
+          "clue": "The color of a traditional rose.",
+          "answer": "What is red?",
+          "regexp": ".* red.*"
+        },
+        {
+          "cell id": "More Colors 60",
+          "points": 60,
+          "clue": "The color of Christmas that's not red.",
+          "answer": "What is green?",
+          "regexp": ".* green.*"
+        }
+      ]
+    }
+  ],
+  "final": {
+    "clue": "The person who founded Cornell University.",
+    "answer": "Who is Ezra Cornell?",
+    "regexp": ".* Ezra.*"
+  }
+}
