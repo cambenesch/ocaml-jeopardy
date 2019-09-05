@@ -1,7 +1,8 @@
 # ocaml-jeopardy
 Interactive OCaml Jeopardy game. Open-ended group midterm project for CS 3110. 
 
-User may use command `set person` to choose a two-player user-vs-user game or `set bot [difficulty level]` to choose a one-player user-vs-bot game. 
+Type command `make play` in the main directory to play the game. 
+User may use command `set person` to choose a two-player user-vs-user game or `set bot [difficulty level]` to choose a one-player user-vs-bot game. <br>
 Bot answers correctly or incorrectly at random, with probability of correctness determined by user-specified bot difficulty level. 
 Bot chooses point values strategically based on overall game progress and the score. 
 User must answer (`answer` command) within 10-second time limit or answer is considered incorrect. 
